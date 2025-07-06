@@ -1,5 +1,5 @@
 Credit--Card-Approval-Prediction
-🏦 Credit Approval Prediction
+
 
 This project predicts whether a user’s credit will be *Approved* or *Not Approved* based on several features like age, debt, income, credit score, etc.
 
